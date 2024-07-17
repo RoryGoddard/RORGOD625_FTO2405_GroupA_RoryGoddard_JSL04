@@ -13,6 +13,7 @@ userPreference === "Regular" || userPreference === undefined ? console.log("The 
 
 let cansLeft = 3; // Any number of cans
 console.log(``);
+cansLeft < 5 ? console.log("Time to restock!") : console.log("We're stocked!")
 
 
 // #### Challenge 3: Workout Intensity
