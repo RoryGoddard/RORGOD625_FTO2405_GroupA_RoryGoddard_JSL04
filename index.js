@@ -31,6 +31,7 @@ heartRate < 100 ? console.log("Boost needed!") : console.log("Energy levels are 
 
 let currentTemp = 4; // Current temperature in °C
 console.log(``);
+currentTemp <= 5 ? console.log("Chilled to perfection!") : console.log("Needs a cooler!");
 
 
 
