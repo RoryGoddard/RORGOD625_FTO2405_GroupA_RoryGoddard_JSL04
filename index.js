@@ -13,7 +13,7 @@ userPreference === "Regular" || userPreference === undefined ? console.log("The 
 
 let cansLeft = 3; // Any number of cans
 console.log(``);
-cansLeft < 5 ? console.log("Time to restock!") : console.log("We're stocked!")
+cansLeft < 5 ? console.log("Time to restock!") : console.log("We're stocked!");
 
 
 // #### Challenge 3: Workout Intensity
@@ -22,7 +22,7 @@ cansLeft < 5 ? console.log("Time to restock!") : console.log("We're stocked!")
 
 let heartRate = 95; // Current heart rate in bpm
 console.log(``);
-heartRate < 100 ? console.log("Boost needed!") : console.log("Energy levels are high!")
+heartRate < 100 ? console.log("Boost needed!") : console.log("Energy levels are high!");
 
 
 // #### Challenge 4: Temperature Suitability
@@ -31,6 +31,7 @@ heartRate < 100 ? console.log("Boost needed!") : console.log("Energy levels are 
 
 let currentTemp = 4; // Current temperature in °C
 console.log(``);
+
 
 
 // #### Challenge 5: Late Night Coding Session
