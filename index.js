@@ -21,7 +21,7 @@ cansLeft < 5 ? console.log("Time to restock!") : console.log("We're stocked!")
 // If the heart rate is below 100 bpm, print "Boost needed!", otherwise, print "Energy levels are high!".
 
 let heartRate = 95; // Current heart rate in bpm
-console.log(`'}`);
+console.log(``);
 
 
 // #### Challenge 4: Temperature Suitability
